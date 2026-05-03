@@ -1,7 +1,6 @@
 ## 📥 下载 AutoClicker
 
-[![GitHub Release](https://img.shields.io/github/v/release/a2401450027/AutoClicker?color=success&label=最新版本)](https://github.com/a2401450027/AutoClicker/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/a2401450027/AutoClicker/total?color=blue&label=总下载量)](https://github.com/a2401450027/AutoClicker/releases/latest)
+[![下载 AutoClicker v1.0](https://img.shields.io/badge/下载-AutoClicker%20v1.0-blue?style=for-the-badge&logo=github)](https://github.com/a2401450027/AutoClicker/releases/download/v1.0/AutoClicker.exe)
 
 点击上方徽章，前往 Release 页面下载最新版本。
 
